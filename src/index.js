@@ -1,5 +1,6 @@
 import ReactDOM from 'react-dom'
 import { jsx } from 'react/jsx-runtime'
+import './index.css'
 
 
 // nesse ponto foi usando apaenas o ReactDOM e não o React propriamente dito
